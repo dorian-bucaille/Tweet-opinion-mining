@@ -1,0 +1,3 @@
+objective,negative,positive,mixed.
+ID: ignore.
+tweet: text: expert_level=1 expert_length=1 cutoff=2.
